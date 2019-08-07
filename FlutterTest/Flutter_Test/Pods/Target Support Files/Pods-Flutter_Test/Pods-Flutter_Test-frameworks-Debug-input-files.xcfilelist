@@ -1,0 +1,3 @@
+${PODS_ROOT}/Target Support Files/Pods-Flutter_Test/Pods-Flutter_Test-frameworks.sh
+${PODS_ROOT}/../../flutterlib/.ios/Flutter/engine/Flutter.framework
+${BUILT_PRODUCTS_DIR}/FlutterPluginRegistrant/FlutterPluginRegistrant.framework

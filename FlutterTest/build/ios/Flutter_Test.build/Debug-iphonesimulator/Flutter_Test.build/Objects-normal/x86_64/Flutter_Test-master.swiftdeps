@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "6b39fa8129b98cc0c67c60da166af7ec"
+build_time: [1565155271, 288823000]
+inputs:
+  "/Users/bill/Desktop/work 2/ios/FlutterTest/Flutter_Test/Flutter_Test/TestSwfit.swift": [1565091562, 0]
